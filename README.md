@@ -18,7 +18,8 @@ python main.py
 Make sure you have these installed:
 * python3.10 or later
 * selenium
-* firefox
+* firefox  
+
 For debian based distros
 ```fish
 sudo apt install python3
