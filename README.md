@@ -20,6 +20,7 @@ Make sure you have these installed:
 * selenium
 * firefox  
 
+
 For debian based distros
 ```fish
 sudo apt install python3
