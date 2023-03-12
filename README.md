@@ -27,8 +27,9 @@ sudo apt install python3
 pip install selenium
 sudo apt install firefox
 ```
-# Nix shell
-There is a shell.nix that will pull dependencies to a temporary shell and run the program
+# Nix flake
+There is a flake.nix that will pull dependencies to a temporary shell 
 ```fish
-nix-shell
+nix develop
+python main.py
 ```
